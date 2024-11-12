@@ -28,7 +28,8 @@ const precached = [
     "/images/profile3.jpg",
     "/images/quotes-bg.jpg",
     "/firebase-messaging-sw.js",
-    "/indexedDB.js"
+    "/images/ss2.png",
+    "/images/screenshot.png"
 ];
 
 self.addEventListener("install", (event) => {
