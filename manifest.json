@@ -5,6 +5,8 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
+  "description": "My portofolio website.",
+  "orientation": "portrait",
   "gcm_sender_id": "521193748580",
   "icons": [
     {
@@ -24,6 +26,20 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/ss2.png",
+      "sizes": "842x529",
+      "type":"image/png"
+    },
+    {
+      "src": "/images/screenshot.png",
+      "sizes": "640x320",
+      "type":"image/png",
+      "form_factor": "wide",
+      "label": "portfolio"
     }
   ]
 }
